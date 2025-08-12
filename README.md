@@ -53,14 +53,7 @@ Klerk.Online - Ofis Xidmətləri
     </div>
   </section>  <section id="contact" class="py-16 container mx-auto px-4">
     <h3 class="text-3xl font-bold mb-6 text-center">Bizimlə Əlaqə</h3>
-   <!-- <form class="max-w-xl mx-auto space-y-4">
-      <input type="text" placeholder="Adınız" class="w-full p-3 border rounded-xl" required />
-      <input type="email" placeholder="Email" class="w-full p-3 border rounded-xl" required />
-      <textarea placeholder="Mesajınız" class="w-full p-3 border rounded-xl" rows="5" required></textarea>
-      <button type="submit" class="bg-blue-700 text-white px-6 py-3 rounded-xl hover:bg-blue-800">Göndər</button>
-    </form>-->
-	
-	<form action="https://formsubmit.co/info@klerk.online" method="POST" class="max-w-xl mx-auto space-y-4">
+
  <h3>info@klerk.online</h3>
 
  <footer class="bg-white shadow-md p-4 text-center text-sm text-gray-500">
