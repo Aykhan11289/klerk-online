@@ -14,20 +14,6 @@ Klerk.Online - Ofis Xidmətləri
 	      <img src="logo.png" alt="Hawk Logo" width="100" height="auto"/>
         <h1 class="text-2xl font-bold text-blue-700">Klerk.Online</h1>
       </div>
-      <div class="flex items-center space-x-4">
-        <nav class="space-x-4 hidden md:block">
-          <a href="#services" class="hover:text-blue-700">Xidmətlər</a>
-          <a href="#about" class="hover:text-blue-700">Haqqımızda</a>
-          <a href="#contact" class="hover:text-blue-700">Əlaqə</a>
-        </nav>
-        <div>
-	  <select class="border border-gray-300 rounded-lg px-2 py-1 text-sm" onchange="changeLanguage(this.value)">
-            <option value="index.html" selected>AZ</option>
-            <option value="index-ru.html">RU</option>
-            <option value="index-en.html">EN</option>
-          </select>
-        </div>
-      </div>
     </div>
   </header>  <section class="text-center py-16 bg-blue-700 text-white">
     <h2 class="text-4xl font-extrabold mb-4">Ofis Əməliyyatlarını Sadələşdirin</h2>
