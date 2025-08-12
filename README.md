@@ -61,22 +61,11 @@ Klerk.Online - Ofis Xidmətləri
     </form>-->
 	
 	<form action="https://formsubmit.co/info@klerk.online" method="POST" class="max-w-xl mx-auto space-y-4">
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://klerk.online/thanks.html">
-  
-  <input type="text" name="name" placeholder="Your Name" class="w-full p-3 border rounded-xl" required />
-  <input type="email" name="email" placeholder="Email" class="w-full p-3 border rounded-xl" required />
-  <textarea name="message" placeholder="Message" class="w-full p-3 border rounded-xl" rows="5" required></textarea>
-  
-  <button type="submit" class="bg-blue-700 text-white px-6 py-3 rounded-xl hover:bg-blue-800">Göndər</button>
-</form>
+ <h3>info@klerk.online</h3>
 
-  </section>  <footer class="bg-white shadow-md p-4 text-center text-sm text-gray-500">
+ <footer class="bg-white shadow-md p-4 text-center text-sm text-gray-500">
     &copy; 2025 Union Inc MMC. Bütün hüquqlar qorunur.
-  </footer> <script>
-   function changeLanguage(page) {
-     window.location.href = page;
-    }
-  </script>
+  </footer> 
+  
   </body>
 </html> 
