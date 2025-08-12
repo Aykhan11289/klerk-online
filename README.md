@@ -1,13 +1,11 @@
-# klerk.online
 <!DOCTYPE html><html lang="az">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Klerk.Online - Ofis Xidmətləri</title>
-  <title>icon</title>
+Klerk.Online - Ofis Xidmətləri
   <link rel="icon" href="logo.png" type="image/png" sizes="96x96">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-  <script src="https://cdn.tailwindcss.com"></script>
+  
 </head>
 <body class="font-inter bg-gray-50 text-gray-800">
   <header class="bg-white shadow-md p-4 sticky top-0 z-50">
